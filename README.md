@@ -20,7 +20,6 @@ I created a scraper to highlight vulnerabilities in [Property24](https://www.pro
 I designed a reverse API to interact with the [USDA's Dietary Reference Intake (DRI) calculator](https://www.nal.usda.gov/human-nutrition-and-food-safety/dri-calculator). Like scrape24, this project was meant to highlight the security vulnerabilities that can be identified from basic network analysis using Chrome dev tools.
 
 ### Technologies I use
-###
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
   <img width="12" />
@@ -37,6 +36,7 @@ I designed a reverse API to interact with the [USDA's Dietary Reference Intake (
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo"  />
+  <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a>
 </div>
 ###
 
