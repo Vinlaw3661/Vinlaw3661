@@ -48,7 +48,7 @@ My main area of technical interest is AI/ML. I like to leverage these technologi
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=vinlaw3661&show_icons=true&locale=en&layout=compact" alt="vinlaw3661" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Vinlaw3661&" alt="vinlaw3661" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vinlaw3661&" alt="vinlaw3661" /></p>
 
 ### Articles and Posts
 
