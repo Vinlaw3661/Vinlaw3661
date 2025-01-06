@@ -47,10 +47,10 @@ My main area of technical interest is AI/ML. I like to leverage these technologi
 
 <div align="center">
   <a href="https://thepressgroup.net/students-propose-three-tools-vs-flooding/" target="_blank">
-    <img src="https://via.placeholder.com/400x200?text=Students+Propose+Three+Tools+vs+Flooding" alt="Students Propose Three Tools vs Flooding" height="200">
+    <img src="./assets/pseg.png" alt="Students Propose Three Tools vs Flooding" height="200">
   </a>
   <a href="https://case.edu/entrepreneurship/Launchnetclient-nourasense" target="_blank">
-    <img src="https://via.placeholder.com/400x200?text=LaunchNet+Client+-+NouraSense" alt="LaunchNet Client - NouraSense" height="200">
+    <img src="./assets/launchnet.png" alt="LaunchNet Client - NouraSense" height="200">
   </a>
 </div>
 
