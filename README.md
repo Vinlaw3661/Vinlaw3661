@@ -49,7 +49,17 @@ My main area of technical interest is AI/ML. I like to leverage these technologi
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vinlaw3661" alt="vinlaw3661" /></a> </p>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=vinlaw3661&show_icons=true&locale=en&layout=compact" alt="vinlaw3661" /></p>
 
-### Articles and Posts
+## 🌟 Featured
+
+<div align="center">
+  <a href="https://thepressgroup.net/students-propose-three-tools-vs-flooding/" target="_blank">
+    <img src="https://via.placeholder.com/400x200?text=Students+Propose+Three+Tools+vs+Flooding" alt="Students Propose Three Tools vs Flooding" height="200">
+  </a>
+  <a href="https://case.edu/entrepreneurship/Launchnetclient-nourasense" target="_blank">
+    <img src="https://via.placeholder.com/400x200?text=LaunchNet+Client+-+NouraSense" alt="LaunchNet Client - NouraSense" height="200">
+  </a>
+</div>
+
 
 
 ![Snake animation](https://github.com/Vinlaw3661/Vinlaw3661/blob/output/github-contribution-grid-snake-dark.svg)
