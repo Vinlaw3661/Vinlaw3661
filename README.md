@@ -46,6 +46,7 @@ I designed a reverse API to interact with the [USDA's Dietary Reference Intake (
 
 My main area of technical interest is AI/ML. I like to leverage these technologies to solve practical problems. I also enjoy implementing some higher level theoretical topics from my math classes into the projects I build. A recent implementation of this knowledge is an algorithm I developed called Bounded Manhattan Assignment for matching detected faces to their respective detected bodies using bounding boxes and pose landmarks. A technical report is provided at -> 
 
+### Articles and Posts
 
 
 ![Snake animation](https://github.com/Vinlaw3661/Vinlaw3661/blob/output/github-contribution-grid-snake-dark.svg)
