@@ -8,7 +8,7 @@ My name is Vinlaw, and I'm passionate about entrepreneurship, AI, and technology
 **Face2Body** 😀➡️🧍‍♀️:
 I developed an algorithm called Bounded Manhattan Assignment to map facial features to body landmarks. The algorithm is meant to be lightweight with both CPU and GPU compatibility. I came up with the idea while developing a zero-shot facial identification system called hippo-id 🦛 which is detailed below. 
 
-**Hippo-ID*** 🦛:
+**Hippo-ID** 🦛:
 I worked on a zero-shot facial recognition and identification engine that performs inference in real-time. The system using Mediapipe, DeepFace and ChromaDB for the core facial recognition and identification functionality. Additional systems such as Elevenlabs, Claude and Assembly are used for advanced text and audio interaction with the end user. The goal was to create a system that can learn and ask about people without explicit training like in most face detection and identification tasks using CNNs. 
 
 **Malnutrition Diagnostics App** 🥗:
