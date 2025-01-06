@@ -20,7 +20,7 @@ I created a scraper to highlight vulnerabilities in [Property24](https://www.pro
 I designed a reverse API to interact with the [USDA's Dietary Reference Intake (DRI) calculator](https://www.nal.usda.gov/human-nutrition-and-food-safety/dri-calculator). Like scrape24, this project was meant to highlight the security vulnerabilities that can be identified from basic network analysis using Chrome dev tools.
 
 ### Technologies I use
-###
+
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
   <img width="12" />
@@ -39,7 +39,6 @@ I designed a reverse API to interact with the [USDA's Dietary Reference Intake (
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo"  />
   <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a>
 </div>
-###
 
 My main area of technical interest is AI/ML. I like to leverage these technologies to solve practical problems. I also enjoy implementing some higher level theoretical topics from my math classes into the projects I build. A recent implementation of this knowledge is an algorithm I developed called Bounded Manhattan Assignment for matching detected faces to their respective detected bodies using bounding boxes and pose landmarks. A technical report is provided at -> 
 
