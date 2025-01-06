@@ -20,6 +20,7 @@ I created a scraper to highlight vulnerabilities in [Property24](https://www.pro
 I designed a reverse API to interact with the [USDA's Dietary Reference Intake (DRI) calculator](https://www.nal.usda.gov/human-nutrition-and-food-safety/dri-calculator). Like scrape24, this project was meant to highlight the security vulnerabilities that can be identified from basic network analysis using Chrome dev tools.
 
 ### Technologies I use
+###
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
   <img width="12" />
