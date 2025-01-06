@@ -5,4 +5,4 @@ My name is Vinlaw, and I'm passionate about entrepreneurship, AI, and technology
 
 
 
-![Snake animation](https://raw.githubusercontent.com/{Vinlaw3661}/{Vinlaw3661}/output/github-contribution-grid-snake-dark.svg)
+![Snake animation](https://github.com/Vinlaw3661/Vinlaw3661/blob/output/github-contribution-grid-snake-dark.svg)
