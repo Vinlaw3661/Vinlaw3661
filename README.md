@@ -43,7 +43,7 @@ My main area of technical interest is AI/ML. I like to leverage these technologi
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vinlaw3661" alt="vinlaw3661" /></a> </p>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=vinlaw3661&show_icons=true&locale=en&layout=compact" alt="vinlaw3661" /></p>
 
-### 🌟 Featured
+### 🌟 Features
 
 <div align="left">
   <a href="https://thepressgroup.net/students-propose-three-tools-vs-flooding/" target="_blank">
