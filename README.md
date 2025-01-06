@@ -45,7 +45,7 @@ My main area of technical interest is AI/ML. I like to leverage these technologi
 
 ### 🌟 Featured
 
-<div align="center">
+<div align="left">
   <a href="https://thepressgroup.net/students-propose-three-tools-vs-flooding/" target="_blank">
     <img src="./assets/pseg.png" alt="Students Propose Three Tools vs Flooding" height="200">
   </a>
