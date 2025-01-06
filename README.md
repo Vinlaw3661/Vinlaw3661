@@ -8,7 +8,7 @@ My name is Vinlaw, and I'm passionate about entrepreneurship, AI, and technology
 I developed an algorithm called Bounded Manhattan Assignment to map facial features to body landmarks. The algorithm is meant to be lightweight with both CPU and GPU compatibility. I came up with the idea while developing a zero-shot facial identification system called hippo-id 🦛 which is detailed below. 
 
 **Hippo-ID*** 🦛:
-I worked on a zero-shot facial recognition and identification engine that performs inference in real-time. It was fun to integrate tools like MediaPipe, DeepFace, and ChromaDB to make it work.
+I worked on a zero-shot facial recognition and identification engine that performs inference in real-time. The system using Mediapipe, DeepFace and ChromaDB for the core facial recognition and identification functionality. Additional systems such as Elevenlabs, Claude and Assembly are used for advanced text and audio interaction with the end user. The goal was to create a system that can learn and ask about people without explicit training like in most face detection and identification tasks using CNNs. 
 
 **Malnutrition Diagnostics App** 🥗:
 I built an app to diagnose malnutrition, plan diets, profile nutrients, and generate medical reports. It combines anthropometric measurements, DRI recommendations, and local food data to offer practical insights. The system is developed for a startup that I cofounded whose mission is to use precision nutrition analytics to help parents and health professionals combat malnutrition especially in underprivileged communities. More can be found on the official [NouraSense website](https://www.nourasense.com/).
