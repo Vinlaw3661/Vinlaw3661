@@ -26,16 +26,5 @@ My name is Vinlaw, and I'm passionate about entrepreneurship, AI, and technology
 
 ###
 
-<div align="left">
-  <a href="www.linkedin.com/in/vinlaw-mudehwe" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  </a>
-  <a href="vzm@case.edu" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
-  </a>
-</div>
-
-###
-
 
 ![Snake animation](https://github.com/Vinlaw3661/Vinlaw3661/blob/output/github-contribution-grid-snake-dark.svg)
