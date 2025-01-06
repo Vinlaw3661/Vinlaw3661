@@ -4,19 +4,19 @@ My name is Vinlaw, and I'm passionate about entrepreneurship, AI, and technology
 
 ### Recent Projects I Have Worked On
 
-Face2Body 😀➡️🧍‍♀️:
+**Face2Body** 😀➡️🧍‍♀️:
 I developed an algorithm called Bounded Manhattan Assignment to map facial features to body landmarks. The algorithm is meant to be lightweight with both CPU and GPU compatibility. I came up with the idea while developing a zero-shot facial identification system called hippo-id 🦛 which is detailed below. 
 
-Hippo-ID 🦛:
+**Hippo-ID** 🦛:
 I worked on a zero-shot facial recognition and identification engine that performs inference in real-time. It was fun to integrate tools like MediaPipe, DeepFace, and ChromaDB to make it work.
 
-Malnutrition Diagnostics App 🥗:
+**Malnutrition Diagnostics App** 🥗:
 I built an app to diagnose malnutrition, plan diets, profile nutrients, and generate medical reports. It combines anthropometric measurements, DRI recommendations, and local food data to offer practical insights. The system is developed for a startup that I cofounded whose mission is to use precision nutrition analytics to help parents and health professionals combat malnutrition especially in underprivileged communities. More can be found on the official [NouraSense website](https://www.nourasense.com/).
 
-Scrape24 🕵️‍♂️:
+**Scrape24** 🕵️‍♂️:
 I created a scraper to highlight vulnerabilities in [Property24](https://www.property24.com/) by extracting real estate agent information. It was an interesting exploration into web scraping and the ethical implications of data usage.
 
-Reverse API for USDA DRI Calculator 🔄:
+**Reverse API for USDA DRI Calculator** 🔄:
 I designed a reverse API to interact with the [USDA's Dietary Reference Intake (DRI) calculator](https://www.nal.usda.gov/human-nutrition-and-food-safety/dri-calculator). Like scrape24, this project was meant to highlight the security vulnerabilities that can be identified from basic network analysis using Chrome dev tools.
 
 
