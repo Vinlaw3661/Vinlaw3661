@@ -11,7 +11,7 @@ Hippo-ID 🦛:
 I worked on a zero-shot facial recognition and identification engine that performs inference in real-time. It was fun to integrate tools like MediaPipe, DeepFace, and ChromaDB to make it work.
 
 Malnutrition Diagnostics App 🥗:
-I built an app to diagnose malnutrition, plan diets, profile nutrients, and generate medical reports. It combines anthropometric measurements, DRI recommendations, and local food data to offer practical insights. The system is developed for a startup that I cofounded whose mission is to use precision nutrition analytics to help parents and health professionals combat malnutrition especially in underprivileged communities. More can be found on the official [NouraSense website](www.nourasense.com).
+I built an app to diagnose malnutrition, plan diets, profile nutrients, and generate medical reports. It combines anthropometric measurements, DRI recommendations, and local food data to offer practical insights. The system is developed for a startup that I cofounded whose mission is to use precision nutrition analytics to help parents and health professionals combat malnutrition especially in underprivileged communities. More can be found on the official [NouraSense website]([www.nourasense.com](https://www.nourasense.com/)).
 
 Scrape24 🕵️‍♂️:
 I created a scraper to highlight vulnerabilities in Property24 by extracting real estate agent information. It was an interesting exploration into web scraping and the ethical implications of data usage.
