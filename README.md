@@ -2,6 +2,11 @@
 
 My name is Vinlaw, and I'm passionate about entrepreneurship, AI, and technology, with a drive to solve real-world problems and create meaningful impact. I also love exploring the power of writing as a creative exploration but also to share ideas and inspire change. You can check out my [LinkedIn](https://www.linkedin.com/in/vinlaw-mudehwe/) and [Website](https://www.vinlawmudehwe.com). 
 
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=vinlaw3661&label=Profile%20views&color=0e75b6&style=flat" alt="vinlaw3661" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vinlaw3661" alt="vinlaw3661" /></a> </p>
+
 ### Recent Projects I Have Worked On
 
 **Face2Body** 😀➡️🧍‍♀️:
