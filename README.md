@@ -3,7 +3,7 @@
 My name is Vinlaw, and I'm passionate about entrepreneurship, AI, and technology, with a drive to solve real-world problems and create meaningful impact. I also love exploring the power of writing as a creative exploration but also to share ideas and inspire change. You can check out my [LinkedIn](https://www.linkedin.com/in/vinlaw-mudehwe/) and [Website](https://www.vinlawmudehwe.com). 
 
 
-### Recent Projects I Have Worked On
+### 💻 Recent Projects I Have Worked On
 
 **Face2Body** 😀➡️🧍‍♀️:
 I developed an algorithm called Bounded Manhattan Assignment to map facial features to body landmarks. The algorithm is meant to be lightweight with both CPU and GPU compatibility. I came up with the idea while developing a zero-shot facial identification system called hippo-id 🦛 which is detailed below. 
@@ -14,7 +14,7 @@ I worked on a zero-shot facial recognition and identification engine that perfor
 **Malnutrition Diagnostics App** 🥗:
 I built an app to diagnose malnutrition, plan diets, profile nutrients, and generate medical reports. It combines anthropometric measurements, DRI recommendations, and local food data to offer practical insights. The system is developed for a startup that I cofounded whose mission is to use precision nutrition analytics to help parents and health professionals combat malnutrition especially in underprivileged communities. More can be found on the official [NouraSense website](https://www.nourasense.com/).
 
-### Technologies I use
+### 🧑‍💻 Technologies I use
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
