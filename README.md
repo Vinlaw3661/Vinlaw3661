@@ -14,12 +14,6 @@ I worked on a zero-shot facial recognition and identification engine that perfor
 **Malnutrition Diagnostics App** 🥗:
 I built an app to diagnose malnutrition, plan diets, profile nutrients, and generate medical reports. It combines anthropometric measurements, DRI recommendations, and local food data to offer practical insights. The system is developed for a startup that I cofounded whose mission is to use precision nutrition analytics to help parents and health professionals combat malnutrition especially in underprivileged communities. More can be found on the official [NouraSense website](https://www.nourasense.com/).
 
-**Scrape24** 🕵️‍♂️:
-I created a scraper to highlight vulnerabilities in [Property24](https://www.property24.com/) by extracting real estate agent information. It was an interesting exploration into web scraping and the ethical implications of data usage.
-
-**Reverse API for USDA DRI Calculator** 🔄:
-I designed a reverse API to interact with the [USDA's Dietary Reference Intake (DRI) calculator](https://www.nal.usda.gov/human-nutrition-and-food-safety/dri-calculator). Like scrape24, this project was meant to highlight the security vulnerabilities that can be identified from basic network analysis using Chrome dev tools.
-
 ### Technologies I use
 
 <div align="left">
