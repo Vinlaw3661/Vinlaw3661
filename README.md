@@ -9,10 +9,10 @@ My name is Vinlaw, and I'm passionate about entrepreneurship, AI, and technology
 I developed an algorithm called Bounded Manhattan Assignment to map facial features to body landmarks. The algorithm is meant to be lightweight with both CPU and GPU compatibility. I came up with the idea while developing a zero-shot facial identification system called hippo-id 🦛 which is detailed below. 
 
 **Hippo-ID** 🦛:
-I worked on a zero-shot facial recognition and identification engine that performs inference in real-time. The system using Mediapipe, DeepFace and ChromaDB for the core facial recognition and identification functionality. Additional systems such as Elevenlabs, Claude and Assembly are used for advanced text and audio interaction with the end user. The goal was to create a system that can learn and ask about people without explicit training like in most face detection and identification tasks using CNNs. 
+I worked on a zero-shot engine for real-time facial recognition and identification at inference. The system uses Mediapipe, DeepFace, and ChromaDB for the core facial recognition and identification functionality. Additional modules such as Elevenlabs, Claude by Anthropic, and AssemblyAI are used for advanced text and audio interaction with the end user. The goal was to create a system that can learn and ask about people without explicit training like in most face detection and identification tasks using CNNs. 
 
 **Malnutrition Diagnostics App** 🥗:
-I built an app to diagnose malnutrition, plan diets, profile nutrients, and generate medical reports. It combines anthropometric measurements, DRI recommendations, and local food data to offer practical insights. The system is developed for a startup that I cofounded whose mission is to use precision nutrition analytics to help parents and health professionals combat malnutrition especially in underprivileged communities. More can be found on the official [NouraSense website](https://www.nourasense.com/).
+I built an app to diagnose malnutrition, profile nutrient requirements, plan optimal diets based on nutrient requirements, and generate medical reports. It combines anthropometric measurements, DRI recommendations, and local food data to offer practical insights. The system is developed for a startup that I cofounded whose mission is to use precision nutrition analytics to help parents and health professionals combat malnutrition, especially in underprivileged communities. More can be found on the official [NouraSense website](https://www.nourasense.com/).
 
 ### 🧑‍💻 Technologies I use
 
@@ -36,7 +36,7 @@ I built an app to diagnose malnutrition, plan diets, profile nutrients, and gene
   <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="50" height="50"/> </a>
 </div>
 <br/>
-My main area of technical interest is AI/ML. I like to leverage these technologies to solve practical problems. I also enjoy implementing some higher level theoretical topics from my math classes into the projects I build. A recent implementation of this knowledge is an algorithm I developed called Bounded Manhattan Assignment for matching detected faces to their respective detected bodies using bounding boxes and pose landmarks. A technical report is provided at -> 
+My main area of technical interest is AI/ML. I like to leverage these technologies to solve practical problems. I also enjoy implementing some higher-level theoretical topics from my math classes into the projects I build. A recent implementation of this knowledge is an algorithm I developed called Bounded Manhattan Assignment for matching detected faces to their respective detected bodies using bounding boxes and pose landmarks. A technical report is provided at -> 
 <br/>
 <p></p>
 <br/>
