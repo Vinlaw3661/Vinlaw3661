@@ -16,27 +16,8 @@ I built an app to diagnose malnutrition, profile nutrient requirements, plan opt
 
 ### 🧑‍💻 Technologies I Use
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-line-wordmark.svg" height="40" alt="amazonwebservices logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="40" alt="pytorch logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" height="40" alt="opencv logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo"  />
-  <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="50" height="50"/> </a>
-  <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="50" height="50"/> </a>
-</div>
 <br/>
-My main area of technical interest is AI/ML. I like to leverage these technologies to solve practical problems. I also enjoy implementing some higher-level theoretical topics from my math classes into the projects I build. A recent implementation of this knowledge is an algorithm I developed called Bounded Manhattan Assignment for matching detected faces to their respective detected bodies using bounding boxes and pose landmarks. I am currently working on a technical report for the algorithm with the help of my college professor. 
+My main area of technical interest is AI/ML engineering (SWE + AI). I like to leverage these technologies to solve practical problems. I also enjoy implementing some higher-level theoretical topics from my math classes into the projects I build. A recent implementation of this knowledge is an algorithm I developed called Bounded Manhattan Assignment for matching detected faces to their respective detected bodies using bounding boxes and pose landmarks. I am currently working on a technical report for the algorithm with the help of my college professor. 
 <br/>
 <p></p>
 <br/>
