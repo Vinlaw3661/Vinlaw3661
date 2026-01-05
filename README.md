@@ -11,8 +11,8 @@ I developed a novel algorithm called Bounded Manhattan Assignment to map facial 
 **Hippo-ID** 🦛:
 I worked on a zero-shot engine for real-time facial recognition and identification at inference. The system uses Mediapipe, DeepFace, and ChromaDB for the core facial recognition and identification functionality. Additional modules such as Elevenlabs, Claude by Anthropic, and AssemblyAI are used for advanced text and audio interaction with the end user. The goal was to create a system that can learn and ask about people without explicit training like in most face detection and identification tasks using CNNs. The  architectural design of the system is also available on [Mermaid](https://www.mermaidchart.com/raw/c1571e97-ed20-4ef4-b6f1-48330a518a82?theme=light&version=v0.1&format=svg). 
 
-**Malnutrition Diagnostics App** 🥗:
-I built an app to diagnose malnutrition, profile nutrient requirements, plan optimal diets based on nutrient requirements, and generate medical reports. It combines anthropometric measurements, DRI recommendations, and local food data to offer practical insights. The system is developed for a startup that I cofounded whose mission is to use precision nutrition analytics to help parents and health professionals combat malnutrition, especially in underprivileged communities.
+**Nourasense** 🥗:
+I built an app to diagnose malnutrition, profile nutrient requirements, plan optimal diets based on nutrient requirements. It combines anthropometric measurements, DRI recommendations, and local food data to offer practical insights. The system is developed with the goal of using precision nutrition analytics to help parents and health professionals combat malnutrition, especially in underprivileged communities.
 
 ### 🧑‍💻 Technologies I Use
 <div align="left">
