@@ -1,7 +1,6 @@
-## Hi there 👋, I'm Vinlaw 
+## Hi 👋, I'm Vinlaw 
 
-My name is Vinlaw, and I'm passionate about entrepreneurship, AI, and technology, with a drive to solve real-world problems and create meaningful impact. I also love exploring the power of writing as a creative exploration but also to share ideas and inspire change. You can check out my [LinkedIn](https://www.linkedin.com/in/vinlaw-mudehwe/). 
-
+I love building projects that solve problems I am interested in. I also like writing as a creative exploration but also to share ideas and and things I am learning about. You can check out my website [vinlawmudehwe.com](https://vinlawmudehwe.com) for more on things I am learning about, articles, and writings on projects I am working/have worked on. 
 
 ### 💻 Recent Projects I Have Worked On
 
