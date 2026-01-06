@@ -1,6 +1,6 @@
 ## Hi 👋, I'm Vinlaw 
 
-I love building projects that solve problems I am interested in. I also like writing as a creative exploration but also to share ideas and and things I am learning about. You can check out my website [vinlawmudehwe.com](https://vinlawmudehwe.com) for more on things I am learning about, articles, and writings on projects I am working/have worked on. 
+I love building things that solve problems I am interested in. I also like writing as a creative exploration but also to share ideas and and things I am learning about. You can check out my website [vinlawmudehwe.com](https://vinlawmudehwe.com) for more on things I am learning about, articles, and writings on projects I am working/have worked on. 
 
 ### 💻 Recent Projects I Have Worked On
 
