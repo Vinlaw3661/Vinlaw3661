@@ -7,7 +7,7 @@ I love building things that solve problems I am interested in. I also like writi
 **Face2Body** 🧍‍♀️:
 I developed a novel algorithm called Bounded Manhattan Assignment to map facial features to body landmarks. The algorithm is meant to be lightweight with both CPU and GPU compatibility. I came up with the idea while developing a zero-shot facial identification system called hippo-id 🦛 which is detailed below. The goal was to create an algorithm that creates a balance between efficiency for real-time inference as well as accuracy for practical applications. 
 
-**Hippo-ID** 🦛:
+**HippoID** 🦛:
 I worked on a zero-shot engine for real-time facial recognition and identification at inference. The system uses Mediapipe, DeepFace, and ChromaDB for the core facial recognition and identification functionality. Additional modules such as Elevenlabs, Claude by Anthropic, and AssemblyAI are used for advanced text and audio interaction with the end user. The goal was to create a system that can learn and ask about people without explicit training like in most face detection and identification tasks using CNNs. The  architectural design of the system is also available on [Mermaid](https://www.mermaidchart.com/raw/c1571e97-ed20-4ef4-b6f1-48330a518a82?theme=light&version=v0.1&format=svg). 
 
 **Nourasense** 🥗:
