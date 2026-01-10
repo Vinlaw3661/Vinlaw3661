@@ -17,8 +17,7 @@ I built an app to diagnose malnutrition, profile nutrient requirements, plan opt
 I co-developed a real-time ticket sales pacing and analytics system for Cleveland Cavaliers games. The system benchmarks live ticket sales against historically similar games using similarity modeling and percentile-based pacing curves. It integrates monitoring and alerting logic to identify underperformance early and recommend in-season demand interventions. The goal was to turn ticket sales from static reporting into a continuous, decision-support framework for revenue strategy. You can check out the live project [here](https://cavalytics-xwbste49biemryu2dwazcy.streamlit.app/)
 
 <br/>
-
-<p align="left"> <a href="https://github.com/vinlaw3661/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vinlaw3661" alt="vinlaw3661" /></a> </p>
+<!-- <p align="left"> <a href="https://github.com/vinlaw3661/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vinlaw3661" alt="vinlaw3661" /></a> </p> -->
 <!-- <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=vinlaw3661&show_icons=true&locale=en&layout=compact" alt="vinlaw3661" /></p> -->
 
 ![Snake animation](https://github.com/Vinlaw3661/Vinlaw3661/blob/output/github-contribution-grid-snake-dark.svg)
